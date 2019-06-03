@@ -1,2 +1,1 @@
-# gracenabasaaka-bootstrap-assignment
-# gracenabasaaka-bootstrap-assignment
+this was a class assignment and we were learning to use bootstrap.
